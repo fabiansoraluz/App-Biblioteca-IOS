@@ -1,0 +1,6 @@
+framework module Pods_appBiblioteca {
+  umbrella header "Pods-appBiblioteca-umbrella.h"
+
+  export *
+  module * { export * }
+}
